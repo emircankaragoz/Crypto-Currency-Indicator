@@ -54,7 +54,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## How to run?
 
-Click the 'run with python file in terminal' and the program will run.
+In the ui.py click the 'run with python file in terminal' and the program will run.
 
 
 ## _Developers_
