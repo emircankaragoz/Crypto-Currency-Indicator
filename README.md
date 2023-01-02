@@ -58,6 +58,7 @@ Click the 'run with python file in terminal' and the program will run.
 
 
 ## _Developers_
+
 > 191805019 - Emircan Karagöz
 
 > 191805029 - Onur Doğan
