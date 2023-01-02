@@ -50,7 +50,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ` pip install binance `
 
-` pip install yfinanace `
+` pip install yfinance `
 
 ## How to run?
 
