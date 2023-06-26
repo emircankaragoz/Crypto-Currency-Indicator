@@ -2,9 +2,10 @@ import ccxt, yfinance
 import pandas_ta as ta
 import pandas as pd
 import time
+import os
 
-api_key = "JMG85Zm3XoOngTsyQZi4Wxx4Q4sLwEhfOTzMEi9HQPJtwiajLpux7CPnGMgCGFao"
-secret_key= "DjUL6175P4L5GXyWiLKTlg3c6qYNmJCKwQhLTHu8jWaZQmWZVamQ6290DtzrzMBj"
+api_key = os.environ.get('API_KEY')
+secret_key = os.environ.get('SECRET_KEY')
 
 """ CCXT, farkli kripto işlem veri kütüphanelerine bağlanmak için ortak bir arayüz sağlayan
  dünyanin önde gelen açik kaynak kütüphanelerinden biri """
